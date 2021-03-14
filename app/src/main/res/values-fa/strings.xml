@@ -1,0 +1,320 @@
+<resources>
+    <string name="app_name">اسکنر بارکد و ساخت بارکد</string>
+
+    <string name="navigation_drawer_open">بازکردن منو</string>
+    <string name="navigation_drawer_close">بستن منو</string>
+    <string name="qr_scanner">اسکنر بارکد</string>
+    <string name="qr_generator">ساخت بارکد</string>
+    <string name="history">بارکدهای قبلی</string>
+    <string name="settings">تنظیمات</string>
+    <string name="help">راهنما</string>
+    <string name="about">درباره</string>
+    <string name="title_activity_qrscanner">اسکنر بارکد</string>
+
+    <string name="action_settings">تنظیمات</string>
+    <string name="title_activity_qr_scanner">اسکنر بارکد</string>
+    <string name="title_activity_qr_generator">ساخت بارکد</string>
+    <string name="title_activity_history">بارکدهای قبلی</string>
+    <string name="title_activity_settings">تنظیمات</string>
+    <string name="title_activity_help">راهنما</string>
+    <string name="title_activity_about">درباره</string>
+    <string name="Settings">تنظیمات</string>
+    <string name="QRScanner">اسکن بارکد</string>
+    <string name="QRGenerator">ساخت بارکد</string>
+    <string name="History">بارکدهای قدیمی</string>
+
+    <string name="slide1_heading">خوش آمدید</string>
+    <string name="slide1_text">خوش آمدید. در این راهنما چیزهای مهم برای شما گفته شده است.</string>
+    <string name="slide2_heading">چه چیزی آنجاست؟</string>
+    <string name="text_slide2">شما با استفاده از قسمت اسکن، بارکدهای خودتان را اسکن کنید و به آدرس یا هرچیزی که اون بارکد ارائه میده دست پیدا کنید،
+    با استفاده از قسمت ساخت هم می توانید هر محتوای را به صورت بارکد بسازید و به مردم ارائه بدید.
+    </string>
+    <string name="slide3_heading">امکانات بیشتر</string>
+    <string name="text_slide3">بارکدها در تاریخچه ذخیره می شوند شما بعدا می توانید به همه آنها دسترسی داشته باشید آنها را کپی یا اشتراکگذاری کنید.</string>
+    <string name="wecome">خوش آمدید</string>
+    <string name="skip">پرش</string>
+    <string name="next">بعدی</string>
+    <string name="help_">راهنما</string>
+
+    <string name="tutorial">راهنمایی</string>
+
+    <!--###ABOUT###-->
+    <string name="about_author">سازنده: </string>
+    <string name="about_author_names" translatable="false">Christopher Beckmann, Bassel Hanna, Philipp Rack</string>
+    <string name="about_author_string">%s دستیارها.</string>
+    <string name="about_affiliation">حمایت کننده ها</string>
+    <string name="privacy_friendly">این برنامه متعلق به گروه برنامه های کاربردی PRIVACY FRIENDLY است که توسط Technische Universität Darmstadt ساخته شده است. کد منبع کد تحت مجوز GPLv3. تصاویر کپی رایت TU Darmstadt و Google Inc.</string>
+    <string name="more_info">اطلاعات بیشتر:</string>
+    <string name="github" translatable="false"><a href="https://github.com/SecUSo/privacy-friendly-qr-scanner">گیت</a></string>
+    <string name="url_secuso" translatable="false"><a href="https://www.secuso.org/pfa">وبسایت</a></string>
+    <string name="about_libraries">کتابخانه ها:</string>
+    <string name="lib_url" translatable="false"><a href="https://github.com/zxing">ZXing</a></string>
+    <string name="app_name_long">بارکد خوان بارکد ساز</string>
+    <string name="version_number">نسخه v%s</string>
+    <string name="delete_items">حذف</string>
+
+    <string name="scan_text">این پنجره را بالاتر از کد مورد نظر برای رمزگشایی قرار دهید.</string>
+    <string name="action_clear">پاک کردن تاریخچه قبلی ها</string>
+    <string name="cannot_clear">تاریخ چه بارکدهای اسکن شده خالی هست.</string>
+    <string name="knowRisks">این آدرسس را بررسی کردم می خواهم بازش کنم.</string>
+    <string name="domain">دامنه</string>
+    <string name="urlExplanation">کدهای QR می توانند شامل پیوندهایی باشند که به یک وب سایت جعلی منتهی می شوند ،
+         که می تواند داده های شخصی شما (وب سایت فیشینگ) را به خطر بیاندازد یا بدافزارها (به عنوان مثال ویروس ها) را به دستگاه شما منتقل کند.
+        شما باید لینکها و آدرس ها را قبل از باز کردن بررسی کنید.
+         \ n \ n
+        به عنوان یک مثال، شما باید لینک را بررسی کنید اگر پیوند زیر همان موردی است که شما انتظار داشتید:</string>
+    <string name="further_info">
+        <a href="https://www.secuso.informatik.tu-darmstadt.de/de/research/results/nophish-flyer-deutsch/unterstuetzung-bei-der-erkennung-von-phishing-angriffen/">اطلاعات</a>
+        نحوه بررسی لینک ها و آدرسها توسط همکاران TU Darmstadt ارائه شده است.
+        اگر به پیوند اطمینان ندارید ، روی آن کلیک نکنید و آن را ذخیره نکنید.</string>
+    <string name="delete_history">آیا می خواهید تاریخچه را حذف کنید؟</string>
+    <string name="ok">بله</string>
+    <string name="element_removed">حذف شد.</string>
+    <string name="conform_url">لطفا آدرس را بررسی کنید و گذینه تیک را بزنید.</string>
+    <string name="wifi_explanation">
+        این نسخه از برنامه به دلیل اجازه ای که لازم باشد نمی تواند به صورت خودکار به شبکه های WIFI وصل شود.
+        در زیر برخی جزئیات در مورد شبکه آورده شده است.
+    </string>
+    <string name="encryption">رمزگذاری</string>
+    <string name="action_about">درباره</string>
+    <string name="history_disabled">تاریخ گذاری غیرفعال شد.</string>
+    <string name="to">گیرنده:</string>
+    <string name="subject">موضوع:</string>
+
+    <string name="usability_hint2">اگر نمی توانید یک کد را اسکن کنید، فاصله بین اسکنر و کد را افزایش دهید.</string>
+
+    <string name="description_contact">بارکدی که اسکن کرده اید حاوی اطلاعات تماس است.</string>
+    <string name="description_email">بارکدی که اسکن کرده اید حاوی یک آدرس ایمیل است.</string>
+    <string name="description_send_email">بارکدی که اسکن شده حاوی یک ایمیل پر شده است.</string>
+    <string name="description_product">بارکدی که اسکن کرده اید حاوی یک کد محصول است.</string>
+    <string name="description_tel">بارکدی که اسکن کرده اید حاوی شماره تلفن است.</string>
+    <string name="description_sms">بارکدی که اسکن کرده اید حاوی پیامک است.</string>
+    <string name="description_text"> بارکدی که اسکن شده حاوی متن ساده است.</string>
+
+    <string name="choose_action">ادامه دهید</string>
+    <string name="abort_action">متوقف کردن</string>
+
+    <string name="proceed">ادامه دهید</string>
+    <string name="back">برگشت</string>
+
+    <string name="choose_action_url">ادامه دهید</string>
+    <string name="abort_action_url">متوقف کردن</string>
+
+    <string-array name="text_array">
+        <item>جستجو در اینترنت</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="email_array">
+        <item>ارسال پست الکترونیکی</item>
+        <item>اضافه کردن به مخاطبین</item>
+    </string-array>
+    <string-array name="vcard_array">
+        <item>اضافه کردن به مخاطبین</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="send_email_array">
+        <item>ارسال پست الکترونیکی</item>
+        <item>اضافه کردن به مخاطبین</item>
+    </string-array>
+    <string-array name="sms_array">
+        <item>ارسال پیام</item>
+        <item>تماس با این شماره</item>
+        <item>اضافه کردن به مخاطبین</item>
+    </string-array>
+    <string-array name="mms_array">
+        <item>ارسال پیام ام ام اس</item>
+        <item>تماس با این شماره</item>
+        <item>اضافه کردن به مخاطبین</item>
+    </string-array>
+    <string-array name="tel_array">
+        <item>تماس با این شماره</item>
+        <item>اضافه کردن به مخاطبین</item>
+    </string-array>
+    <string-array name="geo_array">
+        <item>بازکردن روی نقشه</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="url_array">
+        <item>بازکردن آدرس(لینک) در مرورگر</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="product_array">
+        <item>جستجو در اینترنت</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="wifi_array">
+        <item>کپی کردن رمز وای فای</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="history_array">
+        <item>کپی کردن برای پیست کردن در جایی دیگر</item>
+        <item>حذف کردن</item>
+    </string-array>
+    <string-array name="generator_array">
+        <item>پست الکترونیکی</item>
+        <item>آدرس(لینک)</item>
+        <item>شماره تلفن</item>
+        <item>پیام</item>
+        <item>موقعیت مکانی(لوکیشن)</item>
+        <item>کارت من</item>
+        <item>کارت بیز</item>
+        <item>ام ام اس</item>
+        <item>وای فای</item>
+        <item>ویزا کارت</item>
+        <item>گوگل پلی</item>
+
+    </string-array>
+    <string name="copied_to_clipboard">در صفحه کلید کپی شد هرجا می خواهید بچسبانید.</string>
+    <string name="noname">نامی مشخص نشده</string>
+
+    <string name="title_activity_result_url">لینک پیدا شد</string>
+    <string name="title_activity_result_text">متن پیدا شد</string>
+    <string name="title_activity_result_sms">پیام پیدا شد</string>
+    <string name="title_activity_result_email">آدرس پست الکترونیکی پیدا شد</string>
+    <string name="title_activity_result_send_email">پست الکترونیکی پیدا شد</string>
+    <string name="title_activity_result_product">کالا پیدا شد</string>
+    <string name="title_activity_result_tel">شماره تلفن پیدا شد</string>
+    <string name="title_activity_result_wifi">وای فای پیدا شد</string>
+    <string name="title_activity_result_contact">مخاطب پیدا شد</string>
+    <string name="action_help">راهنما</string>
+
+    <!-- ### WELCOME DIALOG ### -->
+    <string name="welcome_text">
+         این اپلیکیشن PRIVACY FRIENDLY است.
+        و برنامه اجازه می دهد تا بارکدها و کدهای qr را با محتوا های مختلف اسکن کنید و به حداقل کار نیاز دارد
+        این برنامه لینک های مخرب را شناسایی می کند و اجازه نمی دهد به گوشی شما آسیب بزنند
+       تعدادی از مجوزها که برنامه به آن نیاز دارد.
+    </string>
+    <string name="welcome">خوش آمدید</string>
+    <string name="viewhelp">دیدن راهنما</string>
+
+    <!--<string name="help_privacy_heading">Privacy Info</string>
+    <string name="about_author_contributors">Contributors</string>
+    <string name="privacy_friendly">This application belongs to the group of PRIVACY FRIENDLY Apps developed by Technische Universität Darmstadt. Sourcecode licensed under GPLv3. Images copyright TU Darmstadt and Google Inc.</string>
+    <string name="more_info">More information can be found on:</string>
+    <string name="github" translatable="false"><a href="https://github.com/SecUSo/privacy-friendly-qr-scanner">Github-Repo</a></string>-->
+    <string name="help_permission1_description">این برنامه به مجوز دوربین احتیاج دارد ، که برای اسکن بارکدها و کدهای qr از طریق دوربین استفاده می شود.</string>
+    <string name="help_permission1_heading">دوربین</string>
+    <string name="help_privacy_heading">توسط اسکنر به چه مجوزهایی احتیاج دارید؟</string>
+    <string name="help_category_example">اسکن کار نمی کند ، چه کاری می توانم انجام دهم؟</string>
+    <string name="help_overview_heading">اسکنر چیست؟</string>
+    <string name="help_intro">با اسکنر می توانید بارکدها و کدهای qr را با محتویات مختلف اسکن کنید.</string>
+    <string name="help_whatis_answer">
+        با اسکنر PRIVACY FRIENDLY QR می توانید بارکدها و کدهای qr را با محتویات مختلف اسکن / تولید کنید.
+        همچنین می توانید کد QR اسکن شده را با سایر برنامه ها کپی یا به اشتراک بگذارید ،
+    علاوه بر این می توانید کد QR تولید شده را در گالری ذخیره کرده و آن را نیز به اشتراک بگذارید.
+    </string>
+
+
+    <!--###HELP###-->
+    <string name="help_whatis">اسکنر چیست؟</string>
+
+    <string name="help_usability">اسکن کار نمی کند ، چه کاری می توانم انجام دهم؟</string>
+    <string name="help_usability_answer">اگر نمی توانید یک کد را اسکن کنید، فاصله بین گوشی و کد را افزایش دهید.</string>
+    <string name="help_privacy">چه چیزی باعث می شود برنامه برای حفظ حریم خصوصی برنامه کاربردی باشد؟</string>
+    <string name="help_privacy_answer">
+        به عنوان مثال حفظ حریم خصوصی برنامه به هیچ مجوزی احتیاج ندارد.
+         علاوه بر این ، هیچ مکانیسم ردیابی وجود ندارد.
+    </string>
+    <string name="help_permission">
+        توسط اسکنر به چه مجوزهایی احتیاج دارید؟
+    </string>
+    <string name="help_permission_answer">
+        این برنامه به مجوز دوربین احتیاج دارد ، که برای اسکن بارکدها و کدهای qr از طریق دوربین استفاده می شود.
+    </string>
+    <!-- Strings related to SettingsActivity -->
+
+    <!-- Example General settings -->
+    <string name="pref_title_enable_history">فعال کردن ذخیره تاریخچه</string>
+    <string name="pref_description_enable_history">اسکنهای قبلی برای شما ذخیره شده است تا دوباره آنها را ببینید</string>
+    <string name="pref_keep_duplicates">نسخه های تکراری را نگه دارید</string>
+    <string name="pref_keep_duplicates_explanation">نسخه های تکراری در تاریخ ذخیره می شوند</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_title_beep">صدای سیگنال</string>
+    <string name="description_Mms">بارکدی که اسکن کرده اید حاوی MMS است.</string>
+    <string name="geoInfo">بارکدی که اسکن کرده اید حاوی اطلاعات جغرافیایی است.</string>
+    <string name="content_copied">محتوا کپی شد</string>
+    <string name="share_via">اشتراکگذاری با</string>
+    <string name="no_content_in_history">هیچ تاریخچه ای وجود ندارد.</string>
+    <string name="selected_item">انتخاب شد</string>
+    <string name="selected_items">انتخاب شد</string>
+    <string name="removed_item">حذف شد</string>
+    <string name="removed_items">حذف شد</string>
+    <string name="canncelled_scan">شما اسکن را لغو کردید.</string>
+    <string name="Scan_qr">اسکن</string>
+    <string name="okay">بله</string>
+    <string name="Store_in_gallery">ذخیره</string>
+    <string name="phone_number">شماره تلفن</string>
+
+    <string name="sms_text">متن ام ام اس</string>
+    <string name="mms">ام ام اس</string>
+    <string name="network_name">نام شبکه</string>
+    <string name="password">رمز عبور</string>
+    <string name="company">شرکت</string>
+    <string name="lastname">نام خانوادگی</string>
+    <string name="title">عنوان</string>
+    <string name="city">شهر</string>
+    <string name="street_number">شماره خیابان</string>
+    <string name="postal_address">آدرس پستی</string>
+    <string name="e_mail_address">آدرس پست الکترونیکی</string>
+    <string name="firstname">نام</string>
+    <string name="street_name_and_number">نام و شماره خیابان</string>
+    <string name="delete_content">آیا مطمئن هستید که می خواهید محتوا را حذف کنید؟</string>
+    <string name="delete_all">حذف همه</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="D_all">حذف همه ذخیره شده ها</string>
+    <string name="all_records">آیا می خواهید همه رکوردها را حذف کنید؟</string>
+    <string name="Del">آیا می خواهید رکورد (های) انتخاب شده را حذف کنید؟</string>
+    <string name="confirmation">تائیدیه</string>
+    <string name="selected">انتخاب شده</string>
+    <string name="code_stored">بارکد در گالری ذخیره شد.</string>
+    <string name="Ofeatures">ویژگی های دیگر</string>
+    <string name="OfeaturesAnswer">
+        می توانید کد QR اسکن شده را با سایر برنامه ها کپی / به اشتراک بگذارید ،
+       علاوه بر این می توانید کد QR تولید شده را در گالری ذخیره کرده و آن را نیز به اشتراک بگذارید.
+    </string>
+    <string name="Content_copied">محتوا کپی شد</string>
+    <string name="Share_via">اشتراک گذاری از طریق</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="selected_1">انتخاب شد</string>
+    <string name="activity_scanner_permission_needed_explanation">به منظور اسکن کدهای QR ، برنامه به مجوز دوربین نیاز دارد.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">خالی</string>
+
+    <!--Settings for Default Search Engine-->
+    <string name="pref_search_engine_title">موتور جستجوی پیش فرض</string>
+    <string name="pref_search_engine_uri_duckduckgo" translatable="false">
+        "https://duckduckgo.com/?q=%s"
+    </string>
+    <string name="pref_search_engine_uri_google" translatable="false">
+        "https://www.google.com/search?q=%s"
+    </string>
+    <string name="pref_enable_beep_on_scan_title">پخش صدای بوق</string>
+    <string name="pref_enable_beep_on_scan_summary">هنگام اسکن صدای تأیید را پخش کنید</string>
+    <string name="activity_history_list_item_qr_image_descriptor" translatable="false">QR Code</string>
+    <string name="delete">حذف</string>
+    <string name="dialog_history_delete_message">آیا واقعاً می خواهید این مطلب را حذف کنید؟</string>
+    <string name="dialog_history_delete_title">حذف کن</string>
+    <string name="pref_save_real_image_to_history_title">ذخیره کد واقعی</string>
+    <string name="pref_save_real_image_to_history_summary">به جای کدهای بارکد، تصویر واقعی گرفته شده از کد را ذخیره می کند</string>
+    <string name="item_result_email_to">به:</string>
+    <string name="item_result_email_cc">CC:</string>
+    <string name="item_result_email_bcc">BCC:</string>
+    <string name="item_result_email_subject">موضوع:</string>
+    <string name="item_result_email_body">بدنه:</string>
+    <string name="activity_result_toast_saved">در تاریخچه ذخیره شود.</string>
+    <string name="fragment_result_product_label">شناسه:</string>
+    <string name="activity_result_toast_error_cant_load">هنگام نمایش نتیجه مشکلی پیش آمد.</string>
+    <string-array name="pref_search_engine_entries">
+        <item>داک داک گو</item>
+        <item>گوگل</item>
+    </string-array>
+    <string-array name="pref_search_engine_values">
+        <item>DUCK_DUCK_GO</item>
+        <item>GOOGLE</item>
+    </string-array>
+
+</resources>
